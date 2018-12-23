@@ -1,0 +1,13 @@
+Source: anarchistos-ui-theme
+Section: x11
+Priority: extra
+Maintainer: AreYouLoco? <areyouloco@paranoici.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: https://www.anarchistos.tk
+
+Package: anarchistos-ui-theme
+Architecture: all
+Depends: ${misc:Depends}, gtk2-engines-murrine
+Description: default theme for AnarchistOS
+ Default GTK+ and Openbox themes for AnarchistOS.

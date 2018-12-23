@@ -1,0 +1,13 @@
+anarchistos-ui-theme (1.0) unstable; urgency=low
+
+  * Initial Release.
+
+ -- AreYouLoco? <areyouloco@paranoici.org>  Sun, 23 Dec 2018 11:43:30 +0100
+
+
+cbpp-ui-theme (1.0) unstable; urgency=low
+
+  * Initial Release.
+  * Merged original #! theme with new gtk3 theme based on lassekongo83's Zukitwo.
+
+ -- Ben Young <computermouth@crunchbangplusplus.org>  Wed, 18 Feb 2015 22:07:16 -0600
